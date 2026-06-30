@@ -7,6 +7,8 @@ public class DieRoller {
         Random rnd = new Random();
         String playAgain;
 
+        // Task 8
+
         do {
             System.out.printf("%-6s %-5s %-5s %-5s %-4s\n", "Roll", "Die1", "Die2", "Die3", "Sum");
             System.out.println("----------------------------");
